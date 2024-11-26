@@ -1,0 +1,2 @@
+Prefix plugins/ComBat/example/
+Plugin ComBat inputfile parameters.txt outputfile combat.csv
